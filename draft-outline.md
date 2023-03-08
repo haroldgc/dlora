@@ -10,9 +10,3 @@ Only the chapters with a checkmark appear in the contents and navigation.
 
 {% include chapterbook-toc.html show_drafts=true %}
 
-
----
-```
-This file is located at: {{ page.path }}
-```
----

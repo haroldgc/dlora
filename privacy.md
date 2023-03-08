@@ -4,10 +4,5 @@ permalink: /privacy
 layout: page
 ---
 
-Example privacy page.
+Privacy page.
 
----
-```
-This file is located at: {{ page.path }}
-```
----

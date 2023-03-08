@@ -1,12 +1,12 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
 # Configurations
-title:            Jekyll Chapterbook
-longtitle:        Jekyll Chapterbook
-author:           Jason Grimes
-email:            jason@grimesit.com
+title:            Dlora
+longtitle:        Random Tales of a Martian in The Mind
+author:           Harold Gutierrez Calderon
+email:            harold.gc@gmail.com
 description: >
-  A Jekyll theme based on GitBook with support for chapters and parts.
+  Dlora is a book of random tales.
 
 # A copyright notice will be shown at the bottom of each page,
 # with the current year and the author name.
@@ -26,15 +26,13 @@ favicon_path: /assets/gitbook/images/favicon.ico
 
 # Links shown above the TOC in the sidebar
 sidebar_nav_top:
-- label: About this theme
+- label: Introduction
   url: /
 
 # Links shown below the TOC in the sidebar
 sidebar_nav_bottom:
-- label: Example book - draft outline
+- label: Outline
   url: /outline
-- label: Fork at GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
 
 # Navigation shown at the bottom of the page
 bottom_nav:
@@ -44,8 +42,6 @@ bottom_nav:
   url: /toc
 - label: Privacy
   url: /privacy
-- label: GitHub
-  url: https://github.com/jasongrimes/jekyll-chapterbook
 
 # Whether to show chapter headings as a table of contents at the top of each chapter page.
 # Override in page front matter with disable_toc: true
@@ -68,7 +64,7 @@ sidebar_toc:
 # Show a link to edit each page on GitHub
 github_edit:
   enabled: true
-  base_url: https://github.com/jasongrimes/jekyll-chapterbook/edit/master/
+  base_url: https://github.com/haroldgc/dlora/edit/master/
 
 # Custom CSS
 extra_css:

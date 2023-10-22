@@ -6,10 +6,10 @@ abstract: het boek.
 
 # Verschillende zinnen
 
-- hoe gaat het?
+- hoe gaat het?  
 How are you?
 
-- Het is heel goed
+- Het is heel goed.  
 It is very good
 
 - Ik weet de naam niet  
@@ -29,7 +29,7 @@ call me if you want to order
 - Wat wil jej?
 What do you want?
 
-- ik wil een chocolat en een broodje
+- ik wil een chocolat en een broodje  
 I want a chocolate and a sandwich
 
 - wat drink jij?  
@@ -49,10 +49,10 @@ They sell matcha tea
 
 # Woordenlijst
 
-| Nederlands   | Engels      | Nederlands  | Engels   |
-| ------------ | ----------- | ----------- | -------- |
-| het boek     | the book    | het café    | the café |
-| wil / willen | want / want | avondeneten | dinner   |
+| Nederlands   | Engels      | \|  | Nederlands  | Engels   |
+| ------------ | ----------- | --- | ----------- | -------- |
+| het boek     | the book    | \|  | het café    | the café |
+| wil / willen | want / want | \|  | avondeneten | dinner   |
 
 
 

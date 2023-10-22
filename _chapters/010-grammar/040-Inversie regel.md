@@ -1,6 +1,6 @@
 ---
 title: Inversie regel
-slug: Wordenlijst
+slug: Inversie
 abstract: het boek.
 ---
 
